@@ -83,7 +83,3 @@ ax.set_xticks(time[::4]) # 4 time steps a file/day
 ax.set_xticklabels(["Jan 15","","Jan 17","","Jan 19","","Jan 21","","Jan 23","","Jan 25","","Jan 27","","Jan 29","","Jan 31","","Feb 02","","Feb 04"], rotation=0)
 
 show(block=False)
-
-
-
-
