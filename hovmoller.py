@@ -85,4 +85,3 @@ ax.set_ylim([ntime,0])
 ax.set_yticklabels(["Jan 15","","Jan 17","","Jan 19","","Jan 21","","Jan 23","","Jan 25","","Jan 27","","Jan 29","","Jan 31","","Feb 02","","Feb 04"])
 
 show(block=False)
-
